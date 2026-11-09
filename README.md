@@ -1,3 +1,5 @@
+> **Project moved:** FoodHeaven now lives in one repository: [saadh472/foodheaven](https://github.com/saadh472/foodheaven). Use its setup instructions and report future changes there. This archived component preserves the original development history.
+
 # FoodHeaven API
 
 [![Quality checks](https://github.com/saadh472/FoodHeaven-API/actions/workflows/quality.yml/badge.svg)](https://github.com/saadh472/FoodHeaven-API/actions/workflows/quality.yml)
